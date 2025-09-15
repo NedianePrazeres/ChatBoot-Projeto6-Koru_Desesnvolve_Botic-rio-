@@ -1,4 +1,4 @@
-# ChatBoot-Projeto6-Koru_Desesnvolve_Boticario-
+# ChatBoot-Projeto6-Koru_Desesnvolve_Boticario
 <!DOCTYPE html>
 <html lang="pt-BR">
 
